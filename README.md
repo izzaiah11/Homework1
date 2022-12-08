@@ -6,49 +6,49 @@ For this project we were given starter code for a marketing agencies home web pa
 # Changes made to HTML
 Changing the title of the page from 'website' to 'Horiseon' to accurately reflect the companies name. 
 
-Changing the <div class="header"> to <nav class="header">. 
+Changing the div class="header" to nav class="header". 
 
-Got rid of the <div> containing <ul> elements. 
+Got rid of the div containing ul elements. 
 
-I cleaned up the <li> <a> elements by deleting extra spacing between elements, placing <li> & <a> on one line.
+I cleaned up the li a elements by deleting extra spacing between elements, placing li & a on one line.
 
-Changed the <div class="content"> to <section class="content">. 
+Changed the div class="content" to section class="content". 
 
-Added an id attribute of "search-engine-optimization" to <div class="search-engine-optimization"> 
+Added an id attribute of "search-engine-optimization" to div class="search-engine-optimization" 
 
-Added an alt attribute to the <img> element. 
+Added an alt attribute to the img element. 
 
-Cleaned up the <p> tags so that the element appears on one line. 
+Cleaned up the p tags so that the element appears on one line. 
 
-Added an alt attribute to the second <img> element on the page. 
+Added an alt attribute to the second img element on the page. 
 
-Cleaned up the <p> tags so that the element appears on one line. 
+Cleaned up the p tags so that the element appears on one line. 
 
-Added an alt attribute to the third <img> element on the page. 
+Added an alt attribute to the third img element on the page. 
 
-Cleaned up the <p> tags so that the element appears on one line. 
+Cleaned up the p tags so that the element appears on one line. 
 
-Changed <div class="benefits"> to <aside class="benefits">
+Changed div class="benefits" to aside class="benefits".
 
-Added alt attribute to first <img> elements. 
+Added alt attribute to first img elements. 
 
-Added class="lead-generation" to first <img> element. 
+Added class="lead-generation" to first img element. 
 
-Cleaned up the <p> tags so the element appears on one line. 
+Cleaned up the p tags so the element appears on one line. 
 
-Added alt attribute to second <img> elements. 
+Added alt attribute to second img elements. 
 
-Added class="brand-awareness" to second <img> element. 
+Added class="brand-awareness" to second img element. 
 
-Cleaned up the <p> tags so the element appears on one line. 
+Cleaned up the p tags so the element appears on one line. 
 
-Added alt attribute to third <img> elements. 
+Added alt attribute to third img elements. 
 
-Added class="cost-management" to third <img> element. 
+Added class="cost-management" to third img element. 
 
-Cleaned up the <p> tags so the element appears on one line. 
+Cleaned up the p tags so the element appears on one line. 
 
-Changed <div class=footer> to <footer class="footer">
+Changed div class=footer to footer class="footer".
 
 # Changes made to CSS 
 Changed .header div to .header nav
