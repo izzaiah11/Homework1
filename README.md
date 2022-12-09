@@ -64,5 +64,5 @@ Consolidated classes .search-engine-optimization img, .online-reputation-managem
 Consolidated classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 as they all shared the same styling.
 
 # screenshots 
-<img src="HTML-screenshot">
-<img src="HTML-screenshot(2)">
+![screenshot of readme file](./assets/images/Screen%20Shot%202022-12-09%20at%209.21.35%20AM.png)
+![screenshot of readme file](./assets/images/Screen%20Shot%202022-12-09%20at%209.21.48%20AM.png)
