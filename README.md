@@ -8,8 +8,6 @@ Changing the title of the page from 'website' to 'Horiseon' to accurately reflec
 
 Changing the div class="header" to nav class="header". 
 
-Got rid of the div containing ul elements. 
-
 I cleaned up the li a elements by deleting extra spacing between elements, placing li & a on one line.
 
 Changed the div class="content" to section class="content". 
@@ -48,7 +46,7 @@ Added class="cost-management" to third img element.
 
 Cleaned up the p tags so the element appears on one line. 
 
-Changed div class=footer to footer class="footer".
+Changed div class=footer to footer class="footer"x.
 
 # Changes made to CSS 
 Changed .header div to .header nav
@@ -64,3 +62,7 @@ Consolidated classes .search-engine-optimization, .online-reputation-management,
 Consolidated classes .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img as they all shared the same styling.
 
 Consolidated classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 as they all shared the same styling.
+
+# screenshots 
+<img src="HTML-screenshot">
+<img src="HTML-screenshot(2)">
